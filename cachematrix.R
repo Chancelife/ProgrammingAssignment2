@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do:
 ## get & set a matrix and its inverse
-
+## the sha-1 hash id: e44e5d28ca855d51e56fdaf4c860bc6c6ed901ff
 ## Write a short comment describing this function
 ## define the operations first, than complete the function code
 makeCacheMatrix <- function(x = matrix()) {
